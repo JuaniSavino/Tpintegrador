@@ -1,0 +1,64 @@
+.body {
+    background-color: rgba(0, 0, 0, 0.904);
+}
+#navbarNav {
+    margin-left: 200px;
+}
+
+.descripcion {
+
+}
+
+#hawai {
+    background-image: url("Img/hawaii.jpg");
+    background-size: cover;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+
+}
+
+.hawai2 {
+    color: white;
+}
+
+.col-md-4 {
+    width: 375px;
+    height: 375px;
+}
+
+#honolulu {
+    width: 50%;
+    height: 100%;
+    
+}
+
+#BsAs {
+    width: 50%;
+    height: 100%;
+    margin: 30px;
+    color: white;
+    
+}
+
+#fotoinfo {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.87);
+}
+
+
+#caja {
+    width: 50%;
+    margin: auto;
+}
+.mitad {
+    width: 50%;
+}
+
+#nombreyapellido {
+    display: flex;
+}
+
+.foot {
+    background-color: blue;
+}
